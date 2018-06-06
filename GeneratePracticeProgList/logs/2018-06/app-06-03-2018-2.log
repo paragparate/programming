@@ -1,0 +1,26 @@
+12:40:44.773 [main] [DEBUG] [com.pparate.utils.ListPrograms] - Initiated processing
+12:40:44.794 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - Processing file: D:\Trash\ProgramDetailsTest\d1\f11.java
+12:40:44.803 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f11.java -- /*
+12:40:44.803 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f11.java -- 
+12:40:44.803 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f11.java --   //#what to do: fly
+12:40:44.803 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f11.java --   //
+12:40:44.803 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f11.java --   //#how to do:  just get some nice jumping shoes and jump
+12:40:44.804 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f11.java -- 
+12:40:44.804 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - Processing file: D:\Trash\ProgramDetailsTest\f1.java
+12:40:44.805 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java -- /*
+12:40:44.806 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java -- 
+12:40:44.806 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java --   #purpose: to jump out of window
+12:40:44.808 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java --   
+12:40:44.808 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java --   #logic: 1. just get some nice jumping shoes
+12:40:44.809 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java -- 		  2. get trampolene
+12:40:44.809 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java -- 		  3. jump
+12:40:44.809 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java -- 		  
+12:40:44.809 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java --   #author : me
+12:40:44.810 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f1.java -- 
+12:40:44.810 [pool-2-thread-1] [DEBUG] [com.pparate.utils.ListPrograms] - Processing file: D:\Trash\ProgramDetailsTest\f2.java
+12:40:44.817 [pool-2-thread-2] [DEBUG] [com.pparate.utils.ListPrograms] - Processing file: D:\Trash\ProgramDetailsTest\d1\f12.java
+12:40:44.819 [pool-2-thread-3] [DEBUG] [com.pparate.utils.ListPrograms] - Processing file: D:\Trash\ProgramDetailsTest\d2\d21\f211.java
+12:40:44.839 [pool-2-thread-4] [DEBUG] [com.pparate.utils.ListPrograms] - Processing file: D:\Trash\ProgramDetailsTest\d2\f21.java
+12:40:44.842 [pool-2-thread-4] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f21.java -- 	/* #details_in-class: something here has to go
+12:40:44.842 [pool-2-thread-4] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f21.java -- 	 * #test001: some text in single line
+12:40:44.842 [pool-2-thread-4] [DEBUG] [com.pparate.utils.ListPrograms] - First Comment in file f21.java -- 	 * #test002: some text in 
