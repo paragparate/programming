@@ -6,13 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="PracticeProgramDetails" />
-        <module name="ProgramDetails" />
+        <module name="DSAlgo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PracticeProgramDetails" target="1.8" />
-      <module name="ProgramDetails" target="1.8" />
+      <module name="DSAlgo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
